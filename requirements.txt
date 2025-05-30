@@ -1,0 +1,49 @@
+# JALAK-HIJAU Requirements
+# Core Streamlit and Web Framework
+streamlit==1.29.0
+streamlit-folium==0.15.1
+
+# Data Processing and Analysis
+pandas==2.1.4
+numpy==1.24.3
+
+# Geospatial Libraries
+geopandas==0.14.1
+folium==0.15.0
+shapely==2.0.2
+fiona==1.9.5
+pyproj==3.6.1
+rasterio==1.3.9
+
+# Visualization Libraries  
+plotly==5.17.0
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Network Analysis
+networkx==3.2.1
+
+# Machine Learning (Optional - for future ML features)
+scikit-learn==1.3.2
+xgboost==2.0.2
+
+# AI Integration
+openai==1.6.1
+
+# Database Libraries (for future integration)
+psycopg2-binary==2.9.9
+pymongo==4.6.1
+
+# Utility Libraries
+python-dotenv==1.0.0
+requests==2.31.0
+pillow==10.1.0
+
+# Date/Time Processing
+python-dateutil==2.8.2
+
+# File Processing
+openpyxl==3.1.2
+
+# For development and debugging
+streamlit-option-menu==0.3.6
