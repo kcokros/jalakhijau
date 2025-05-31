@@ -1091,7 +1091,7 @@ def main():
     
     # Sidebar
     
-    st.sidebar.image("logo.png", width=300)
+    st.sidebar.image("logotext.png", width=300)
     st.sidebar.markdown("""
     <div style="text-align: center; padding: 20px;">
         <p style="color: white;">Environmental Crime Detection</p>
